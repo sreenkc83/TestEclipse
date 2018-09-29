@@ -13,4 +13,9 @@ public class MicroSeleniumUtilsApplicationTests {
 	public void contextLoads() {
 	}
 
+
+	@Test
+	public void contextLoads1() {
+	}
+// added mine too
 }
